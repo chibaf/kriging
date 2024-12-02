@@ -19,3 +19,6 @@ https://geostat-framework.readthedocs.io/projects/pykrige/en/stable/index.html#i
 
 Examples — PyKrige 1.7.2 documentation
 https://geostat-framework.readthedocs.io/projects/pykrige/en/stable/examples/index.html
+
+GeoStat-Framework/PyKrige: Kriging Toolkit for Python
+https://github.com/GeoStat-Framework/PyKrige
