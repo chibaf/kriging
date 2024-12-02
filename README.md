@@ -9,3 +9,6 @@ https://qiita.com/m081740/items/386e30f58ec51ffc5f39
 
 GeoStat-Framework/PyKrige: Kriging Toolkit for Python
 https://github.com/GeoStat-Framework/PyKrige
+
+ERSSLE/ordinary_kriging: Ordinary Kriging Interpolation
+https://github.com/ERSSLE/ordinary_kriging
