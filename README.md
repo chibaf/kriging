@@ -12,3 +12,6 @@ https://github.com/GeoStat-Framework/PyKrige
 
 ERSSLE/ordinary_kriging: Ordinary Kriging Interpolation
 https://github.com/ERSSLE/ordinary_kriging
+
+Examples — PyKrige 1.7.2 documentation
+https://geostat-framework.readthedocs.io/projects/pykrige/en/stable/examples/index.html
